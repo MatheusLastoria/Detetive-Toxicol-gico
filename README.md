@@ -12,7 +12,7 @@ Para conhecer mais sobre o projeto e acessar o aplicativo, basta abrir o link do
 ⚠️ É importante destacar que o aplicativo só pode ser utilizado em conjunto com o jogo físico, sendo necessário possuir o material para que a experiência funcione corretamente.
 <br><br>
 ![Detetive tóxicologico](https://github.com/MatheusLastoria/Detetive-Toxicol-gico/blob/main/detetive2.png)
- Essa tela é onde você escolhe as informações do assassino, portando somente pessoas que ficarão fora do jogo pode escolher.
+ Nesta tela, os jogadores selecionam as informações do assassino. Apenas os participantes que não estarão jogando podem realizar essa escolha.
 <br><br>
 
 
