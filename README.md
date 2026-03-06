@@ -1,9 +1,15 @@
 # Projeto Detetive tóxicologico 
 ![Detetive tóxicologico](https://github.com/MatheusLastoria/Detetive-Toxicol-gico/blob/main/detetive3.png)
 <br><br>
-Meu quarto jogo, dessa vez desenvolvido para o grupo de extensão biomedicos em ação, sendo aplicado aos projetos aplicados por eles,
-Esse jogo só é possivel jogar com o jogo fisico dele, que foi desenvolvido pelo pessoal do biomedicos em ação, a ideia principal é fazer semelhante ao jogo Detetive da Estrela, mas com conceitos da biomedicina.
-O jogo original, possui uma versão fisica que tem a possibilidade de jogar com um aplicativo, e esse apricativo foi a inspiração para o meu desenvolvimento. Para jogar o jogo, e saber mais, basta abrir o link do drive no final da página, fazer o download e executar o arquivo .apk (mobile). Mas lembrando que é obrigatórico o jogo fisco em mãos para jogar.
+Este foi meu quarto jogo desenvolvido, criado em parceria com o grupo de extensão Biomédicos em Ação. O projeto foi pensado para apoiar as atividades educacionais realizadas pelo grupo, sendo utilizado em ações e projetos aplicados por eles.
+
+O jogo foi inspirado no clássico Detetive, da Estrela, porém adaptado para trabalhar conceitos da Biomedicina de forma interativa e educativa. A proposta é estimular o raciocínio e o aprendizado científico por meio de uma dinâmica semelhante ao jogo original, mas contextualizada dentro da área biomédica.
+
+Diferente de um jogo tradicional digital, este projeto funciona em conjunto com sua versão física, que foi desenvolvida pelo próprio grupo Biomédicos em Ação. O aplicativo mobile atua como um complemento ao jogo de tabuleiro, auxiliando na condução da experiência e nas mecânicas da partida.
+
+Para conhecer mais sobre o projeto e acessar o aplicativo, basta abrir o link do Google Drive disponível ao final da página, fazer o download e instalar o arquivo .apk no dispositivo móvel.
+
+⚠️ É importante destacar que o aplicativo só pode ser utilizado em conjunto com o jogo físico, sendo necessário possuir o material para que a experiência funcione corretamente.
 <br><br>
 ![Detetive tóxicologico](https://github.com/MatheusLastoria/Detetive-Toxicol-gico/blob/main/detetive2.png)
  Essa tela é onde você escolhe as informações do assassino, portando somente pessoas que ficarão fora do jogo pode escolher.
